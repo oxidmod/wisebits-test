@@ -1,4 +1,7 @@
 {
+    "beberlei/assert": {
+        "version": "v3.3.0"
+    },
     "doctrine/annotations": {
         "version": "1.0",
         "recipe": {
@@ -13,6 +16,9 @@
     },
     "doctrine/lexer": {
         "version": "1.2.1"
+    },
+    "k911/swoole-bundle": {
+        "version": "v0.8.3"
     },
     "psr/cache": {
         "version": "1.0.1"
@@ -137,6 +143,9 @@
     },
     "symfony/polyfill-php80": {
         "version": "v1.22.0"
+    },
+    "symfony/process": {
+        "version": "v5.2.2"
     },
     "symfony/routing": {
         "version": "4.2",
